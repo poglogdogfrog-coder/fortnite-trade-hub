@@ -27,6 +27,7 @@
     "express-rate-limit": "^7.1.5"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "3.2.1",
     "@types/express": "^4.17.21",
     "@types/node": "^20.10.6",
     "@types/pg": "^8.11.2",
